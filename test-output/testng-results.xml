@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-18T23:42:12 IST" name="Default suite" finished-at="2025-08-18T23:42:21 IST" duration-ms="9484">
+    <groups>
+    </groups>
+    <test started-at="2025-08-18T23:42:12 IST" name="Default test" finished-at="2025-08-18T23:42:21 IST" duration-ms="9484">
+      <class name="testBase.TC_001_registrantion">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testBase.TC_001_registrantion@11392934]" started-at="2025-08-18T23:42:12 IST" name="setup" finished-at="2025-08-18T23:42:18 IST" duration-ms="6686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginManual()[pri:0, instance:testBase.TC_001_registrantion@11392934]" started-at="2025-08-18T23:42:18 IST" name="loginManual" finished-at="2025-08-18T23:42:21 IST" duration-ms="2531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginManual -->
+        <test-method is-config="true" signature="teatdown()[pri:0, instance:testBase.TC_001_registrantion@11392934]" started-at="2025-08-18T23:42:21 IST" name="teatdown" finished-at="2025-08-18T23:42:21 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatdown -->
+      </class> <!-- testBase.TC_001_registrantion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
