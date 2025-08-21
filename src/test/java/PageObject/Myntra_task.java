@@ -31,7 +31,7 @@ public class Myntra_task {
         searchBox.sendKeys("Doll");
         driver.findElement(By.className("desktop-submit")).click();
 
-        // Pick nth item dynamically (example: 7th item)
+        // Pick nth item dynamically 
         int itemNumber = 5;   // You can change this to any nth item dynamically
         List<WebElement> allItems = driver.findElements(By.cssSelector("li.product-base"));
 
