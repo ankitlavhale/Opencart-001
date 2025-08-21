@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testBase.TC_001_registrantion">
+      <class name="PageObject.Myntra_task">
         <methods>
-          <include name="teatdown"/>
+          <include name="addAndRemoveFromCart"/>
+          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="loginManual"/>
         </methods>
-      </class> <!-- testBase.TC_001_registrantion -->
+      </class> <!-- PageObject.Myntra_task -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

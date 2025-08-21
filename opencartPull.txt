@@ -1,4 +1,0 @@
-this is pull command file
-username - ankitlavhale
-password -123456789
-mobile no -
